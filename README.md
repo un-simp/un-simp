@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning python again
 - 📫 How to reach me: Discord: Lil_Un#0001
-- 😄 Pronouns: They/Them
-- ⚡ Fun fact: Im non binary lmao
+- 😄 Pronouns: They/She/He
+- ⚡ Fun fact: Im genderliquid lmao
 - bOnK
 
 
