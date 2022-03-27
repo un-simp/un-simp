@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning cpp
-- 📫 How to reach me: Discord: Lil_Un#0001
+- 📫 How to reach me: Discord: Un#0001
 - 😄 Pronouns: They/She
 - ⚡ Fun fact: Im genderliquid lmao
 - bOnK
