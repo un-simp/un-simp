@@ -1,7 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=un-simp&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning cpp
+- 🔭 I’m currently working on eduamphe
+- 🌱 I’m currently learning kotlin
 - 📫 How to reach me: Discord: Un#0001
 - 😄 Pronouns: They/She
 - ⚡ Fun fact: Im genderliquid lmao
