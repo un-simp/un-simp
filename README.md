@@ -1,4 +1,4 @@
-![Currently listening to](https://lastfm-profile-readme.vercel.app/api/unsimp?color=25332E&textColor=D8D8D8&isRounded=true&displayName=true)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=unsimp&count=1)
 - 🔭 I’m currently working on [redacted]amphe
 - 🌱 I’m currently learning C#/Dart
 - 📫 How to reach me: Discord: Un!#6969
