@@ -2,8 +2,7 @@
 - 🔭 I’m currently working on unity modding and other random things
 - 🌱 I’m currently learning c++, c#
 - 📫 How to reach me: MattKC Forums: unsimp 
-- 😄 Pronouns: He/She/They
-- ⚡ Fun fact: Im genderliquid lmao
+- 😄 Pronouns: He/They
 - bOnK
 
 
