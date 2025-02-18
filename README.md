@@ -1,4 +1,5 @@
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=unsimp&count=5)
+![Metrics](https://metrics.lecoq.io/un-simp?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=UTC)
 - 🔭 I'm working on: CS Proposal and other random beat saber things
 - 🌱 I’m currently learning c, c#, java
 - 📫 How to reach me: MattKC Forums: unsimp 
